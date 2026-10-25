@@ -22,6 +22,7 @@ upstream sources (checked by `craft-fonts-tests`, which verifies each SHA-256 in
 | `fonts/noto-sans-telugu/NotoSansTelugu.ttf` | Noto Sans Telugu (variable) | The Noto Project Authors | [google/fonts@bd8f81d](https://github.com/google/fonts/tree/bd8f81ddb5c74d5c8897b36ad88b440266245103/ofl/notosanstelugu) | OFL-1.1 (`fonts/noto-sans-telugu/OFL.txt`) |
 | `fonts/noto-sans-kannada/NotoSansKannada.ttf` | Noto Sans Kannada (variable) | The Noto Project Authors | [google/fonts@bd8f81d](https://github.com/google/fonts/tree/bd8f81ddb5c74d5c8897b36ad88b440266245103/ofl/notosanskannada) | OFL-1.1 (`fonts/noto-sans-kannada/OFL.txt`) |
 | `fonts/noto-sans-malayalam/NotoSansMalayalam.ttf` | Noto Sans Malayalam (variable) | The Noto Project Authors | [google/fonts@bd8f81d](https://github.com/google/fonts/tree/bd8f81ddb5c74d5c8897b36ad88b440266245103/ofl/notosansmalayalam) | OFL-1.1 (`fonts/noto-sans-malayalam/OFL.txt`) |
+| `fonts/noto-sans-georgian/NotoSansGeorgian.ttf` | Noto Sans Georgian (variable) | The Noto Project Authors | [google/fonts@8b0a1d0](https://github.com/google/fonts/tree/8b0a1d0f5983c89bc2b93f1b5fb55f9e252744b5/ofl/notosansgeorgian) | OFL-1.1 (`fonts/noto-sans-georgian/OFL.txt`) |
 
 The OFL allows these fonts to be bundled, embedded and redistributed with software, provided the
 licence text travels with them and the fonts are not sold on their own. "Shippori Mincho",
